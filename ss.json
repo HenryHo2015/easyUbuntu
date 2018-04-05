@@ -1,0 +1,9 @@
+{
+  "server": "fuckGFW",
+  "server_port": 2333,  
+  "local_address": "127.0.0.1",  
+  "local_port": 1080,  
+  "password": "fuckGFW",
+  "timeout": 300,  
+  "method":"aes-256-cfb"
+}
